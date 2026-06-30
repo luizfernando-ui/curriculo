@@ -1,2 +1,3 @@
-# curriculo
-trabalho avaliativo de introdução programação
+# curriculo do aluno luiz
+site com informações para contratação futur.
+trabalho avaliativo introdução programação
